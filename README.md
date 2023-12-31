@@ -5,7 +5,7 @@ HAPPY NEWYEAR 2024
 </p>
 
 ````
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/setup.sh && chmod +x setup.sh && ./setup.ssh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/haproxy/main/scp2.png)
