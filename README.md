@@ -12,7 +12,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scp.png)
 
 
-SCRIPT HAPROXY GRATIS TIDAK IJIN IP SAYANK... !!
+SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. LANGSUNG INSTALL AJA LBIH BAIK MAKEK DOMAIN SENDIRI
 https://www.facebook.com/aris.newby
 
 wa. https://wa.me/6281931615811
