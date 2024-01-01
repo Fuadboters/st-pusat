@@ -1,6 +1,6 @@
 [Unit]
-Description=Python Proxy DragonTunneling
-Documentation=https://t.me/Renzy_Store
+Description=Python Proxy Tunneling
+Documentation=https://wa.me/6281931615811
 After=network.target nss-lookup.target
 
 [Service]
