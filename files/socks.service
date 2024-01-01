@@ -1,6 +1,6 @@
 [Unit]
 Description=Python Proxy Tunneling
-Documentation=https://wa.me/6281931615811
+Documentation=Anjing
 After=network.target nss-lookup.target
 
 [Service]
