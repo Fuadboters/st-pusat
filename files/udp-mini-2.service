@@ -1,6 +1,6 @@
 [Unit]
 Description=UDP 7200
-Documentation=https://xxn.net
+Documentation=https://github.com/asu
 After=syslog.target network-online.target
 
 [Service]
