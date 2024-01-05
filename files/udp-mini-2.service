@@ -1,6 +1,6 @@
 [Unit]
 Description=UDP 7200
-Documentation=https://geovpn.net
+Documentation=https://xxn.net
 After=syslog.target network-online.target
 
 [Service]
