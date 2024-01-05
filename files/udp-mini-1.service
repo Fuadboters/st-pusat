@@ -1,6 +1,6 @@
 [Unit]
 Description=UDP 7100
-Documentation=https://xx.com
+Documentation=https://github.com/asu
 After=syslog.target network-online.target
 
 [Service]
