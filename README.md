@@ -12,7 +12,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scp.png)
 
 
-SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. LANGSUNG INSTALL AJA!!!
+SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10 / UBUNTU 20.04 LANGSUNG INSTALL AJA!!!
 LBIH BAIK MAKEK DOMAIN SENDIRI.
 
 Sedia AkunSsh Premium 5k-10k isp indo & Sgdo
