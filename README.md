@@ -13,7 +13,8 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 
 SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. LANGSUNG INSTALL AJA!!!
-LBIH BAIK MAKEK DOMAIN SENDIRI
+LBIH BAIK MAKEK DOMAIN SENDIRI.
+
 Sedia AkunSsh Premium 5k-10k isp indo & Sgdo
 https://www.facebook.com/aris.newby
 
